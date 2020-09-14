@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Myriad Pro";
+    src: url('/assets/font/MyrialPro/MyriadPro-Regular.woff');
+    src: url('/assets/font/MyrialPro/MyriadPro-Regular.ttf');
+    src: url('/assets/font/MyrialPro/MyriadPro-Regular.otf');
+    src: url('/assets/font/MyrialPro/MyriadPro-Regular.eot');
+    src: url('/assets/font/MyrialPro/MyriadPro-Regular.svg');
+}
+
+body {
+    background-color: #000;
+    font-family: 'Myriad Pro', sans-serif !important;
+}
+
+.navbar-main {
+    padding: 0 1rem;
+}
+
+.navbar-brand {
+    font-weight: 300;
+}
+
+.bg-red {
+    background-color: rgb(220, 20, 60);
+}
+
+.text-red {
+    color: rgb(220, 20, 60);
+}

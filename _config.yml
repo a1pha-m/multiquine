@@ -1,0 +1,17 @@
+version: 1
+language: 'en-US'
+baseurl: ""
+url: "https://multiquine.com"
+
+title: MultiQuine
+description: >- # this means to ignore newlines until "baseurl:"
+  Hello World
+logo: assets/images/MultiQuineLogo.png
+favicon: assets/images/MultiQuineLogo.png
+keywords: [ Computer Softwares ]
+
+twitter: multiquine
+facebook: multiquine
+linkedin: multiquine
+bitbucket: multiquine
+instagram: multiquine
